@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Application</string>
+
+
+    <string name="Button" >button</string>
+    <string name="first_name">First Name</string>
+    <string name="textview">TextView</string>
+    <string name="calculator_app">Calculator</string>
+    <string name="devloped_by_n_flash">Developed By Mohit</string>
+    <string name="hintfirst_name">hintFirst name</string>
+
+</resources>
